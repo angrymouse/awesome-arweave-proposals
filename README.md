@@ -1,2 +1,3 @@
-# awesome-arweave-specs
-Breakdown of the differences between different protocol standards
+# awesome-arweave-proposals
+
+A breakdown of the differences between protocol proposals on Arweave.
